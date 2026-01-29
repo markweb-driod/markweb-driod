@@ -8,7 +8,7 @@ I am passionate about technology and building solutions that excel.
 ---
 
 ## 🚀 Skills & Expertise:
-- **Programming Languages & Skills**: PHP, Laravel, Go, Python(Django)
+- **Programming Languages & Skills**: PHP, Laravel, Nodejs, Go, Python(Django)
 **DevOps**
 **AI/ML**
 **Automation**
