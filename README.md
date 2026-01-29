@@ -1,6 +1,6 @@
-# Hi, I'm Mark Ishaya Jatau 👋    
+# Hi, I'm Mark Ishaya  👋    
 
-💻 **Tech Enthusiast | Software Developer | IT Consultant**  
+💻 **Tech Enthusiast | Software Developer | DevOps Engineer**  
 I specialize in building robust software solutions, web development, and backend systems. 
 CORE: EDTECH, FINTECH, AI AND HEALTH TECHNOLOGIES:
 I am passionate about technology and building solutions that excel.
@@ -8,7 +8,7 @@ I am passionate about technology and building solutions that excel.
 ---
 
 ## 🚀 Skills & Expertise:
-- **Programming Languages**: PHP, Laravel, Go, Python(Django)
+- **Programming Languages & Skills**: PHP, Laravel, Go, Python(Django)
 **DevOps**
 **AI/ML**
 **Automation**
